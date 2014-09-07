@@ -22,6 +22,6 @@ It doesn't add a trailing slash, but keeps one if present.
         fmt.Println(url) // Output: http://example.com/foo
     }
 
-## Tests
+## Test
 
     go test
